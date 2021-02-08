@@ -32,5 +32,7 @@ e.	Print the appropriate combination of tokens for any number that matches more 
 5.	Put all your work in a zip file and upload it with the results from your questionnaire to the link we provided you.
 
 Hint #1: Your final solution should include at least four projects – on for your class library, two for the console applications, and at one or more projects for automated tests. 
+
 Hint #2: Your console applications don’t need to parse any command line arguments. They just need to generate output, using your SuperFizzBuzz class, as described in requirements 2 and 3.
+
 Hint #3: Even though we’re the authors of AutoMapper, MediatR, and lots of other open source libraries, there’s no need to import or use any of them for this exercise. Keep it simple!
