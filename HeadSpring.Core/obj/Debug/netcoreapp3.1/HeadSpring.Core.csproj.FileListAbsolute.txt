@@ -1,0 +1,9 @@
+C:\.Net projects\HeadSpring\HeadSpring.Core\bin\Debug\netcoreapp3.1\HeadSpring.Core.deps.json
+C:\.Net projects\HeadSpring\HeadSpring.Core\bin\Debug\netcoreapp3.1\HeadSpring.Core.dll
+C:\.Net projects\HeadSpring\HeadSpring.Core\bin\Debug\netcoreapp3.1\HeadSpring.Core.pdb
+C:\.Net projects\HeadSpring\HeadSpring.Core\obj\Debug\netcoreapp3.1\HeadSpring.Core.csprojAssemblyReference.cache
+C:\.Net projects\HeadSpring\HeadSpring.Core\obj\Debug\netcoreapp3.1\HeadSpring.Core.AssemblyInfoInputs.cache
+C:\.Net projects\HeadSpring\HeadSpring.Core\obj\Debug\netcoreapp3.1\HeadSpring.Core.AssemblyInfo.cs
+C:\.Net projects\HeadSpring\HeadSpring.Core\obj\Debug\netcoreapp3.1\HeadSpring.Core.csproj.CoreCompileInputs.cache
+C:\.Net projects\HeadSpring\HeadSpring.Core\obj\Debug\netcoreapp3.1\HeadSpring.Core.dll
+C:\.Net projects\HeadSpring\HeadSpring.Core\obj\Debug\netcoreapp3.1\HeadSpring.Core.pdb
